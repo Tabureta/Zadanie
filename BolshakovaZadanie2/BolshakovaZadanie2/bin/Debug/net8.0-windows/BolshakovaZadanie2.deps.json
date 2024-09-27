@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BolshakovaZadanie2/1.0.0": {
+        "runtime": {
+          "BolshakovaZadanie2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BolshakovaZadanie2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

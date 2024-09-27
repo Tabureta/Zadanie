@@ -1,0 +1,16 @@
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.Form1.resources
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.csproj.GenerateResource.cache
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.AssemblyInfoInputs.cache
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.AssemblyInfo.cs
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.csproj.CoreCompileInputs.cache
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\bin\Debug\net8.0-windows\BolshakovaZadanie2.exe
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\bin\Debug\net8.0-windows\BolshakovaZadanie2.deps.json
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\bin\Debug\net8.0-windows\BolshakovaZadanie2.runtimeconfig.json
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\bin\Debug\net8.0-windows\BolshakovaZadanie2.dll
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\bin\Debug\net8.0-windows\BolshakovaZadanie2.pdb
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.dll
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\refint\BolshakovaZadanie2.dll
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.pdb
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\BolshakovaZadanie2.genruntimeconfig.cache
+C:\Users\velim\source\repos\BolshakovaZadanie2\BolshakovaZadanie2\obj\Debug\net8.0-windows\ref\BolshakovaZadanie2.dll
